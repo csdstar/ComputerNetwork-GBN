@@ -1,0 +1,836 @@
+[2025-05-08 12:13:00]  1, pdu_to_send=1, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=2, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=3, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=4, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=5, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=6, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=7, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=8, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=9, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=10, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=11, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=12, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=13, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=14, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=15, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=16, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=17, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=18, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=19, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=20, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=21, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=22, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=23, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=24, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=25, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=26, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=27, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=28, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=29, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=30, status=NEW, ackedNo=4294967295
+[2025-05-08 12:13:00]  1, pdu_to_send=31, status=NEW, ackedNo=1
+[2025-05-08 12:13:00]  1, pdu_to_send=32, status=NEW, ackedNo=2
+[2025-05-08 12:13:00]  1, pdu_to_send=33, status=NEW, ackedNo=3
+[2025-05-08 12:13:00]  1, pdu_to_send=34, status=NEW, ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=5, status=TO , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=6, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=7, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=8, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=9, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=10, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=11, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=12, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=13, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=14, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=15, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=16, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=17, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=18, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=19, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=20, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=21, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=22, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=23, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=24, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=25, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=26, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=27, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=28, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=29, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=30, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=31, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=32, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=33, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  2, pdu_to_send=34, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=5, status=TO , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=6, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=7, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=8, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=9, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=10, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=11, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=12, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=13, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=14, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=15, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=16, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=17, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=18, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=19, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=20, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=21, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=22, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=23, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=24, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=25, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=26, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=27, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=28, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=29, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=30, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=31, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=32, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=33, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  3, pdu_to_send=34, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=5, status=TO , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=6, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=7, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=8, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=9, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=10, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=11, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=12, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=13, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=14, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=15, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=16, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=17, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=18, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=19, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=20, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=21, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=22, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=23, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=24, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=25, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=26, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=27, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=28, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=29, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=30, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=31, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=32, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=33, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  4, pdu_to_send=34, status=RT , ackedNo=4
+[2025-05-08 12:13:01]  1, pdu_to_send=35, status=NEW, ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=6, status=TO , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=7, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=8, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=9, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=10, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=11, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=12, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=13, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=14, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=15, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=16, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=17, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=18, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=19, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=20, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=21, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=22, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=23, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=24, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=25, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=26, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=27, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=28, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=29, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=30, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=31, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=32, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=33, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  5, pdu_to_send=34, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  2, pdu_to_send=35, status=RT , ackedNo=5
+[2025-05-08 12:13:01]  1, pdu_to_send=36, status=NEW, ackedNo=6
+[2025-05-08 12:13:01]  1, pdu_to_send=37, status=NEW, ackedNo=7
+[2025-05-08 12:13:01]  1, pdu_to_send=38, status=NEW, ackedNo=8
+[2025-05-08 12:13:01]  1, pdu_to_send=39, status=NEW, ackedNo=9
+[2025-05-08 12:13:01]  1, pdu_to_send=40, status=NEW, ackedNo=10
+[2025-05-08 12:13:01]  1, pdu_to_send=41, status=NEW, ackedNo=11
+[2025-05-08 12:13:01]  1, pdu_to_send=42, status=NEW, ackedNo=12
+[2025-05-08 12:13:01]  1, pdu_to_send=43, status=NEW, ackedNo=13
+[2025-05-08 12:13:01]  1, pdu_to_send=44, status=NEW, ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=15, status=TO , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=16, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=17, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=18, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=19, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=20, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=21, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=22, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=23, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=24, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=25, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=26, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=27, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=28, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=29, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=30, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=31, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=32, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=33, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  6, pdu_to_send=34, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  3, pdu_to_send=35, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=36, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=37, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=38, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=39, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=40, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=41, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=42, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=43, status=RT , ackedNo=14
+[2025-05-08 12:13:01]  2, pdu_to_send=44, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=15, status=TO , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=16, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=17, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=18, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=19, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=20, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=21, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=22, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=23, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=24, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=25, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=26, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=27, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=28, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=29, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=30, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=31, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=32, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=33, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  7, pdu_to_send=34, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  4, pdu_to_send=35, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=36, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=37, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=38, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=39, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=40, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=41, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=42, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=43, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  3, pdu_to_send=44, status=RT , ackedNo=14
+[2025-05-08 12:13:02]  1, pdu_to_send=45, status=NEW, ackedNo=15
+[2025-05-08 12:13:02]  1, pdu_to_send=46, status=NEW, ackedNo=16
+[2025-05-08 12:13:02]  1, pdu_to_send=47, status=NEW, ackedNo=17
+[2025-05-08 12:13:02]  1, pdu_to_send=48, status=NEW, ackedNo=18
+[2025-05-08 12:13:02]  1, pdu_to_send=49, status=NEW, ackedNo=19
+[2025-05-08 12:13:02]  1, pdu_to_send=50, status=NEW, ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=21, status=TO , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=22, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=23, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=24, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=25, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=26, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=27, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=28, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=29, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=30, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=31, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=32, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=33, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  8, pdu_to_send=34, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  5, pdu_to_send=35, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=36, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=37, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=38, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=39, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=40, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=41, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=42, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=43, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  4, pdu_to_send=44, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  2, pdu_to_send=45, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  2, pdu_to_send=46, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  2, pdu_to_send=47, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  2, pdu_to_send=48, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  2, pdu_to_send=49, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  2, pdu_to_send=50, status=RT , ackedNo=20
+[2025-05-08 12:13:02]  1, pdu_to_send=51, status=NEW, ackedNo=21
+[2025-05-08 12:13:02]  1, pdu_to_send=52, status=NEW, ackedNo=22
+[2025-05-08 12:13:02]  1, pdu_to_send=53, status=NEW, ackedNo=23
+[2025-05-08 12:13:02]  1, pdu_to_send=54, status=NEW, ackedNo=24
+[2025-05-08 12:13:02]  1, pdu_to_send=55, status=NEW, ackedNo=25
+[2025-05-08 12:13:02]  1, pdu_to_send=56, status=NEW, ackedNo=26
+[2025-05-08 12:13:02]  1, pdu_to_send=57, status=NEW, ackedNo=27
+[2025-05-08 12:13:02]  1, pdu_to_send=58, status=NEW, ackedNo=28
+[2025-05-08 12:13:02]  9, pdu_to_send=29, status=TO , ackedNo=28
+[2025-05-08 12:13:02]  9, pdu_to_send=30, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  9, pdu_to_send=31, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  9, pdu_to_send=32, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  9, pdu_to_send=33, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  9, pdu_to_send=34, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=35, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=36, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=37, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=38, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=39, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=40, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=41, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=42, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=43, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=44, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=45, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=46, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=47, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=48, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=49, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=50, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=51, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=52, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=53, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=54, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=55, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=56, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=57, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  2, pdu_to_send=58, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  10, pdu_to_send=29, status=TO , ackedNo=28
+[2025-05-08 12:13:02]  10, pdu_to_send=30, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  10, pdu_to_send=31, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  10, pdu_to_send=32, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  10, pdu_to_send=33, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  10, pdu_to_send=34, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=35, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=36, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=37, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=38, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=39, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=40, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=41, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=42, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=43, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  6, pdu_to_send=44, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=45, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=46, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=47, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=48, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=49, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=50, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=51, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=52, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=53, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=54, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=55, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=56, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=57, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  3, pdu_to_send=58, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  11, pdu_to_send=29, status=TO , ackedNo=28
+[2025-05-08 12:13:02]  11, pdu_to_send=30, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  11, pdu_to_send=31, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  11, pdu_to_send=32, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  11, pdu_to_send=33, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  11, pdu_to_send=34, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  8, pdu_to_send=35, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=36, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=37, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=38, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=39, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=40, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=41, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=42, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=43, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  7, pdu_to_send=44, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=45, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=46, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=47, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=48, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=49, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  5, pdu_to_send=50, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=51, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=52, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=53, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=54, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=55, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=56, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=57, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  4, pdu_to_send=58, status=RT , ackedNo=28
+[2025-05-08 12:13:02]  1, pdu_to_send=59, status=NEW, ackedNo=29
+[2025-05-08 12:13:02]  12, pdu_to_send=30, status=TO , ackedNo=29
+[2025-05-08 12:13:02]  12, pdu_to_send=31, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  12, pdu_to_send=32, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  12, pdu_to_send=33, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  12, pdu_to_send=34, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  9, pdu_to_send=35, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=36, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=37, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=38, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=39, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=40, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=41, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=42, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=43, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  8, pdu_to_send=44, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  6, pdu_to_send=45, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  6, pdu_to_send=46, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  6, pdu_to_send=47, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  6, pdu_to_send=48, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  6, pdu_to_send=49, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  6, pdu_to_send=50, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=51, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=52, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=53, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=54, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=55, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=56, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=57, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  5, pdu_to_send=58, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  2, pdu_to_send=59, status=RT , ackedNo=29
+[2025-05-08 12:13:02]  1, pdu_to_send=60, status=NEW, ackedNo=30
+[2025-05-08 12:13:02]  1, pdu_to_send=61, status=NEW, ackedNo=31
+[2025-05-08 12:13:02]  1, pdu_to_send=62, status=NEW, ackedNo=32
+[2025-05-08 12:13:02]  1, pdu_to_send=63, status=NEW, ackedNo=33
+[2025-05-08 12:13:02]  1, pdu_to_send=64, status=NEW, ackedNo=34
+[2025-05-08 12:13:02]  1, pdu_to_send=65, status=NEW, ackedNo=35
+[2025-05-08 12:13:02]  1, pdu_to_send=66, status=NEW, ackedNo=36
+[2025-05-08 12:13:02]  1, pdu_to_send=67, status=NEW, ackedNo=37
+[2025-05-08 12:13:03]  9, pdu_to_send=38, status=TO , ackedNo=37
+[2025-05-08 12:13:03]  9, pdu_to_send=39, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  9, pdu_to_send=40, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  9, pdu_to_send=41, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  9, pdu_to_send=42, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  9, pdu_to_send=43, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  9, pdu_to_send=44, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  7, pdu_to_send=45, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  7, pdu_to_send=46, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  7, pdu_to_send=47, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  7, pdu_to_send=48, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  7, pdu_to_send=49, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  7, pdu_to_send=50, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=51, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=52, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=53, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=54, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=55, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=56, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=57, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  6, pdu_to_send=58, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  3, pdu_to_send=59, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=60, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=61, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=62, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=63, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=64, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=65, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=66, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  2, pdu_to_send=67, status=RT , ackedNo=37
+[2025-05-08 12:13:03]  1, pdu_to_send=68, status=NEW, ackedNo=38
+[2025-05-08 12:13:03]  1, pdu_to_send=69, status=NEW, ackedNo=39
+[2025-05-08 12:13:03]  1, pdu_to_send=70, status=NEW, ackedNo=40
+[2025-05-08 12:13:03]  1, pdu_to_send=71, status=NEW, ackedNo=41
+[2025-05-08 12:13:03]  1, pdu_to_send=72, status=NEW, ackedNo=42
+[2025-05-08 12:13:03]  1, pdu_to_send=73, status=NEW, ackedNo=43
+[2025-05-08 12:13:03]  1, pdu_to_send=74, status=NEW, ackedNo=44
+[2025-05-08 12:13:03]  1, pdu_to_send=75, status=NEW, ackedNo=45
+[2025-05-08 12:13:03]  1, pdu_to_send=76, status=NEW, ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=47, status=TO , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=48, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=49, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=50, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=51, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=52, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=53, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=54, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=55, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=56, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=57, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  7, pdu_to_send=58, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=59, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=60, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=61, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=62, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=63, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=64, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=65, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=66, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=67, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=68, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=69, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=70, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=71, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=72, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=73, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=74, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=75, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  2, pdu_to_send=76, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=47, status=TO , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=48, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=49, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=50, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=51, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=52, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=53, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=54, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=55, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=56, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=57, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  8, pdu_to_send=58, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=59, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=60, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=61, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=62, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=63, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=64, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=65, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=66, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=67, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=68, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=69, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=70, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=71, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=72, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=73, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=74, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=75, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  3, pdu_to_send=76, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  10, pdu_to_send=47, status=TO , ackedNo=46
+[2025-05-08 12:13:03]  10, pdu_to_send=48, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  10, pdu_to_send=49, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  10, pdu_to_send=50, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=51, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=52, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=53, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=54, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=55, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=56, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=57, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  9, pdu_to_send=58, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  6, pdu_to_send=59, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=60, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=61, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=62, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=63, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=64, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=65, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=66, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  5, pdu_to_send=67, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=68, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=69, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=70, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=71, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=72, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=73, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=74, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=75, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  4, pdu_to_send=76, status=RT , ackedNo=46
+[2025-05-08 12:13:03]  1, pdu_to_send=77, status=NEW, ackedNo=47
+[2025-05-08 12:13:03]  1, pdu_to_send=78, status=NEW, ackedNo=48
+[2025-05-08 12:13:03]  11, pdu_to_send=49, status=TO , ackedNo=48
+[2025-05-08 12:13:03]  11, pdu_to_send=50, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=51, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=52, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=53, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=54, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=55, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=56, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=57, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  10, pdu_to_send=58, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  7, pdu_to_send=59, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=60, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=61, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=62, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=63, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=64, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=65, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=66, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  6, pdu_to_send=67, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=68, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=69, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=70, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=71, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=72, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=73, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=74, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=75, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  5, pdu_to_send=76, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  2, pdu_to_send=77, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  2, pdu_to_send=78, status=RT , ackedNo=48
+[2025-05-08 12:13:03]  1, pdu_to_send=79, status=NEW, ackedNo=49
+[2025-05-08 12:13:03]  1, pdu_to_send=80, status=NEW, ackedNo=50
+[2025-05-08 12:13:03]  1, pdu_to_send=81, status=NEW, ackedNo=51
+[2025-05-08 12:13:03]  1, pdu_to_send=82, status=NEW, ackedNo=52
+[2025-05-08 12:13:03]  1, pdu_to_send=83, status=NEW, ackedNo=53
+[2025-05-08 12:13:03]  1, pdu_to_send=84, status=NEW, ackedNo=54
+[2025-05-08 12:13:03]  1, pdu_to_send=85, status=NEW, ackedNo=55
+[2025-05-08 12:13:03]  1, pdu_to_send=86, status=NEW, ackedNo=56
+[2025-05-08 12:13:03]  1, pdu_to_send=87, status=NEW, ackedNo=57
+[2025-05-08 12:13:03]  11, pdu_to_send=58, status=TO , ackedNo=57
+[2025-05-08 12:13:03]  8, pdu_to_send=59, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=60, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=61, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=62, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=63, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=64, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=65, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=66, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  7, pdu_to_send=67, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=68, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=69, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=70, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=71, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=72, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=73, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=74, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=75, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  6, pdu_to_send=76, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  3, pdu_to_send=77, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  3, pdu_to_send=78, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=79, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=80, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=81, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=82, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=83, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=84, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=85, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=86, status=RT , ackedNo=57
+[2025-05-08 12:13:03]  2, pdu_to_send=87, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  12, pdu_to_send=58, status=TO , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=59, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=60, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=61, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=62, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=63, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=64, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=65, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=66, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=67, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=68, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=69, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=70, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=71, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=72, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=73, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=74, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=75, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  7, pdu_to_send=76, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=77, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=78, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=79, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=80, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=81, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=82, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=83, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=84, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=85, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=86, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  3, pdu_to_send=87, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  13, pdu_to_send=58, status=TO , ackedNo=57
+[2025-05-08 12:13:04]  10, pdu_to_send=59, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=60, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=61, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=62, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=63, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=64, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=65, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=66, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  9, pdu_to_send=67, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=68, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=69, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=70, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=71, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=72, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=73, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=74, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=75, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  8, pdu_to_send=76, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  5, pdu_to_send=77, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  5, pdu_to_send=78, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=79, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=80, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=81, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=82, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=83, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=84, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=85, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=86, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  4, pdu_to_send=87, status=RT , ackedNo=57
+[2025-05-08 12:13:04]  1, pdu_to_send=88, status=NEW, ackedNo=58
+[2025-05-08 12:13:04]  11, pdu_to_send=59, status=TO , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=60, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=61, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=62, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=63, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=64, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=65, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=66, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  10, pdu_to_send=67, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=68, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=69, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=70, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=71, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=72, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=73, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=74, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=75, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  9, pdu_to_send=76, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  6, pdu_to_send=77, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  6, pdu_to_send=78, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=79, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=80, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=81, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=82, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=83, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=84, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=85, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=86, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  5, pdu_to_send=87, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  2, pdu_to_send=88, status=RT , ackedNo=58
+[2025-05-08 12:13:04]  1, pdu_to_send=89, status=NEW, ackedNo=59
+[2025-05-08 12:13:04]  1, pdu_to_send=90, status=NEW, ackedNo=60
+[2025-05-08 12:13:04]  1, pdu_to_send=91, status=NEW, ackedNo=61
+[2025-05-08 12:13:04]  1, pdu_to_send=92, status=NEW, ackedNo=62
+[2025-05-08 12:13:04]  1, pdu_to_send=93, status=NEW, ackedNo=63
+[2025-05-08 12:13:04]  1, pdu_to_send=94, status=NEW, ackedNo=64
+[2025-05-08 12:13:04]  1, pdu_to_send=95, status=NEW, ackedNo=65
+[2025-05-08 12:13:04]  1, pdu_to_send=96, status=NEW, ackedNo=66
+[2025-05-08 12:13:04]  1, pdu_to_send=97, status=NEW, ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=68, status=TO , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=69, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=70, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=71, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=72, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=73, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=74, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=75, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  10, pdu_to_send=76, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  7, pdu_to_send=77, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  7, pdu_to_send=78, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=79, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=80, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=81, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=82, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=83, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=84, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=85, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=86, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  6, pdu_to_send=87, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  3, pdu_to_send=88, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=89, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=90, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=91, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=92, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=93, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=94, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=95, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=96, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  2, pdu_to_send=97, status=RT , ackedNo=67
+[2025-05-08 12:13:04]  1, pdu_to_send=98, status=NEW, ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=69, status=TO , ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=70, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=71, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=72, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=73, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=74, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=75, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  11, pdu_to_send=76, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  8, pdu_to_send=77, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  8, pdu_to_send=78, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=79, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=80, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=81, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=82, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=83, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=84, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=85, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=86, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  7, pdu_to_send=87, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  4, pdu_to_send=88, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=89, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=90, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=91, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=92, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=93, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=94, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=95, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=96, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  3, pdu_to_send=97, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  2, pdu_to_send=98, status=RT , ackedNo=68
+[2025-05-08 12:13:04]  1, pdu_to_send=99, status=NEW, ackedNo=69
+[2025-05-08 12:13:05]  12, pdu_to_send=70, status=TO , ackedNo=69
+[2025-05-08 12:13:05]  12, pdu_to_send=71, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  12, pdu_to_send=72, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  12, pdu_to_send=73, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  12, pdu_to_send=74, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  12, pdu_to_send=75, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  12, pdu_to_send=76, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  9, pdu_to_send=77, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  9, pdu_to_send=78, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=79, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=80, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=81, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=82, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=83, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=84, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=85, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=86, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  8, pdu_to_send=87, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  5, pdu_to_send=88, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=89, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=90, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=91, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=92, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=93, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=94, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=95, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=96, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  4, pdu_to_send=97, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  3, pdu_to_send=98, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  2, pdu_to_send=99, status=RT , ackedNo=69
+[2025-05-08 12:13:05]  1, pdu_to_send=100, status=NEW, ackedNo=70
+[2025-05-08 12:13:05]  1, pdu_to_send=101, status=NEW, ackedNo=71
+[2025-05-08 12:13:05]  1, pdu_to_send=102, status=NEW, ackedNo=72
+[2025-05-08 12:13:05]  1, pdu_to_send=103, status=NEW, ackedNo=73
+[2025-05-08 12:13:05]  1, pdu_to_send=104, status=NEW, ackedNo=74
+[2025-05-08 12:13:05]  1, pdu_to_send=105, status=NEW, ackedNo=75
+[2025-05-08 12:13:05]  1, pdu_to_send=106, status=NEW, ackedNo=76
+[2025-05-08 12:13:05]  1, pdu_to_send=107, status=NEW, ackedNo=77
+[2025-05-08 12:13:05]  10, pdu_to_send=78, status=TO , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=79, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=80, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=81, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=82, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=83, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=84, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=85, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=86, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  9, pdu_to_send=87, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  6, pdu_to_send=88, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=89, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=90, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=91, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=92, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=93, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=94, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=95, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=96, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  5, pdu_to_send=97, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  4, pdu_to_send=98, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  3, pdu_to_send=99, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=100, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=101, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=102, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=103, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=104, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=105, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=106, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  2, pdu_to_send=107, status=RT , ackedNo=77
+[2025-05-08 12:13:05]  1, pdu_to_send=108, status=NEW, ackedNo=78
+[2025-05-08 12:13:05]  1, pdu_to_send=109, status=NEW, ackedNo=79
+[2025-05-08 12:13:05]  1, pdu_to_send=110, status=NEW, ackedNo=80
+[2025-05-08 12:13:05]  1, pdu_to_send=111, status=NEW, ackedNo=81
+[2025-05-08 12:13:05]  1, pdu_to_send=112, status=NEW, ackedNo=82
+[2025-05-08 12:13:05]  1, pdu_to_send=113, status=NEW, ackedNo=83
+[2025-05-08 12:13:05]  1, pdu_to_send=114, status=NEW, ackedNo=84
+[2025-05-08 12:13:05]  1, pdu_to_send=115, status=NEW, ackedNo=85
+[2025-05-08 12:13:05]  1, pdu_to_send=116, status=NEW, ackedNo=86
